@@ -1,7 +1,8 @@
 ---
 title: "Título: insertar título"
-author: Roberto Negro
-date: Insertar Fecha
+title: "Subtítulo"
+author: Autor
+date: Fecha
 ---
 
 # Sección 1
